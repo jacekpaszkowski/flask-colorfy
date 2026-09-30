@@ -1,0 +1,9 @@
+.git
+.gitignore
+.claude
+Dockerfile
+.dockerignore
+README.md
+redeploy.sh
+**/__pycache__
+**/*.pyc
